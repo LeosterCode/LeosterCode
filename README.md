@@ -4,7 +4,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&letterSpacing=2px&duration=3000&pause=500&color=2AA889&center=true&vCenter=true&width=600&lines=Leonardo+Sotero+Nu%C3%B1ez+Ortiz;Software+Development+Student;If+you+can+imagine+it+you+can+code+it" alt="Typing SVG" /></a>
 </p>
 
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About me
 
 - I like to be organized in my workspace
 - My goal is be Software Architect
@@ -13,6 +13,33 @@
 ## 🛠️ Tools & Skills
 
 ### Programming Lenguages:
+<span>
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></img>
+  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
+</span>
+
+### Frameworks:
+<span>
+  <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+</span>
+
+### DataBases
+<span>
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"/>
+  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>
+</span>
+
+### Tools
+<span>
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"/>
+</span>
+
+
+
 
 
 ## 📈 GitHub Stats
@@ -31,7 +58,7 @@
 <td width="50%" align="center">
 
   <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=LeosterCode&theme=gotham&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
+
   </td>
 </tr>
 </table>
