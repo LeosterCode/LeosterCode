@@ -63,7 +63,7 @@
 </tr>
 </table>
 
-## Repositories
+<!--
 
  <a href="https://github.com/LeosterCode/ChiWallet-POOProject">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LeosterCode&repo=ChiWallet-POOProject&theme=gotham" />
