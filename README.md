@@ -22,6 +22,7 @@ I am a Multiplatform Software Development student, finishing my TSU and making m
 ### Frameworks:
 <span>
   <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=angular&logoColor=white"/>
 </span>
 
 ### DataBases
