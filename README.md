@@ -19,7 +19,6 @@ I believe the best way to learn is by doing, so I'm always working on personal p
 - ⚛️ **React** — building modern, component-driven UIs
 - 🟦 **TypeScript** — writing safer, more scalable JavaScript
 - 🐘 **Laravel** — crafting robust REST APIs and backend systems
-- 🗂️ **Microservices architecture** — understanding how large systems scale
 
 ---
 
